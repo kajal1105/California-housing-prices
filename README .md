@@ -24,10 +24,8 @@ I have done the exploratory data analysis and done following manipulations on da
 *	Transforming skewed features
 *	Checking for multicoliniearity
 
-## 2) Training machine learning algorithms:
-Here, I have trained various machine learning algorithms like
+## 2) I have also used 
 *	Linear Regression
-*	Ridge Regression
-*	Support Vector Regression
-*	Gradient Boosting Regression
-*	Stacking of various models
+*	Ridge Model
+*	Lasso Model
+*	Evaluating Model
